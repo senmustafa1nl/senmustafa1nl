@@ -6,6 +6,11 @@ I’m a **Backend Developer** passionate about creating scalable and efficient s
 I enjoy working on **MVC projects** and have a strong background in developing and maintaining backend applications. Always looking for new challenges and ways to grow professionally!
 
 ---
+## 📄 GitHub Stats
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senmustafa1nl&show_icons=true&count_private=true&hide=prs&theme=merko)
+
+---
 
 ## 🛠️ Technologies & Tools
 - **Languages**: 
@@ -60,8 +65,4 @@ You can reach out to me or follow my professional journey through LinkedIn:
 
 ---
 
-## 📄 GitHub Stats
 
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senmustafa1nl&show_icons=true&count_private=true&hide=prs&theme=merko)
-
----

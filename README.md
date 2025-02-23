@@ -1,34 +1,67 @@
-# 👋 Hey! I'm MUSTAFA SEN
+# 👋 Hi, I'm Mustafa Şen
 
-## 🚀 About Me
-- 💻 I'm currently attending Patika+ to improve my skills
-- ✍️ I regularly do projects for fun
-- 💬 Ask me about Python, API, and Music
-- 📫 How to reach me: senmustafa1nl@gmail.com
+## About Me
+I’m a **Backend Developer** passionate about creating scalable and efficient systems. I specialize in **C#**, **JavaScript**, and **PostgreSQL**, and I’m currently focused on mastering **Mobile Development** and **Blockchain** technologies. 
 
-## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karem-alsayed)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kareem_wss/)
+I enjoy working on **MVC projects** and have a strong background in developing and maintaining backend applications. Always looking for new challenges and ways to grow professionally!
 
-## 💻 Technologies:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## 🛠 Tools:
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+## 🛠️ Technologies & Tools
+- **Languages**: 
+  - C#
+  - JavaScript
+- **Web Development**: 
+  - MVC
+  - HTML, CSS, Bootstrap
+- **Database**: 
+  - PostgreSQL
+- **Others**: 
+  - Backend Development
+  - Blockchain Development
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=kareem221215&show_icons=true&theme=radical"/>
-  <img height="160em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem221215&theme=radical&hide_border=true"/>
-</p>
+---
 
-## 📈 Activity Graph:
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kareem221215&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+## 🚀 Career Goals
+I aspire to become an expert in both **Mobile Development** and **Web Development**, while also expanding my knowledge and expertise in the **Blockchain** space. I aim to stay updated with emerging technologies and contribute to innovative projects that push the boundaries of what’s possible.
+
+---
+
+## 🌱 What I'm Learning
+- Advanced **Blockchain** development
+- **Mobile App Development** (iOS/Android)
+- Exploring **Cloud Computing** and **DevOps**
+
+---
+
+## 🧑‍💻 Projects & Contributions
+I’ve worked on several **MVC projects** where I designed and implemented the backend of various applications, including handling databases, APIs, and integration with frontend technologies. I’m always eager to collaborate and contribute to open-source projects.
+
+---
+
+## 🎶 Hobbies & Interests
+Outside of coding, I enjoy:
+- 🚗 **Road trips**
+- 🥾 **Hiking**
+- 🏊 **Swimming**
+- 🎹 **Playing the piano**
+- 🎤 **Going to stand-up comedy shows**
+
+---
+
+## 🎓 Education
+- **Kyiv Polytechnic Institute**, Bachelor's Degree in **Computer Engineering**
+
+---
+
+## 📬 Let's Connect
+You can reach out to me or follow my professional journey through LinkedIn:  
+[Mustafa Şen on LinkedIn](https://nl.linkedin.com/in/mustafa-şen-33a8a5211)
+
+---
+
+## 📄 GitHub Stats
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senmustafa1nl&show_icons=true&count_private=true&hide=prs&theme=merko)
+
+---

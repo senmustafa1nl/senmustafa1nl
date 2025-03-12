@@ -65,4 +65,4 @@ You can reach out to me or follow my professional journey through LinkedIn:
 
 ---
 
-
+![Snake animation](https://raw.githubusercontent.com/melihcanndemir/melihcanndemir/output/github-contribution-grid-snake-dark.svg)

@@ -10,8 +10,7 @@ I enjoy working on **MVC projects** and have a strong background in developing a
 
 ![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senmustafa1nl&show_icons=true&count_private=true&hide=prs&theme=merko)
 ---
-![Snake animation](https://raw.githubusercontent.com/senmustafa1nl/senmustafa1nl/output/github-contribution-grid-snake-dark.svg)
----
+
 
 ## 🛠️ Technologies & Tools
 - **Languages**: 

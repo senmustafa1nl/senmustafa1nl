@@ -115,12 +115,4 @@ You can reach out to me or follow my professional journey through LinkedIn:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
 </div>
 
-### GitHub Activity:
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/senmustafa1nl/senmustafa1nl/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/senmustafa1nl/count.svg?" />
-</div>

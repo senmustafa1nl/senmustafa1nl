@@ -56,6 +56,15 @@ I am focused on becoming a **Full-Stack Developer** and **Mobile Developer** wit
 - **Flutter** for mobile app development
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senmustafa1nl/senmustafa1nl/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senmustafa1nl/senmustafa1nl/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/senmustafa1nl/senmustafa1nl/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+---
 
 ## 🧑‍💻 Projects & Contributions
 
@@ -114,5 +123,3 @@ You can reach out to me or follow my professional journey through LinkedIn:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
 </div>
-
-
